@@ -1,0 +1,13 @@
+@import "keep-react/css";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.letra{
+
+
+  line-height: 1;
+  text-shadow: -3px -1px 0px white;
+  color:black;
+ }
